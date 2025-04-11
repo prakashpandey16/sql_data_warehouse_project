@@ -81,9 +81,7 @@ data-warehouse-project/
 │   ├── Data_mart.png                   # Schema or design of data marts
 │   ├── ETL_modal.png                   # Visual explanation of ETL processes
 │   ├── High_level_architecture.png     # Overview of the system architecture
-│   ├── Project_Notes_Sketches.pdf      # Hand-drawn notes or sketches for reference
 │   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
-│   ├── data_layers.pdf                 # Explanation of bronze, silver, and gold layers
 │   ├── naming_conventions.md           # Guidelines for consistent naming of tables, columns, and files
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
